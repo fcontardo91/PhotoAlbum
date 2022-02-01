@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FotoAlbum</string>
+    <string name="gallery">Galeria</string>
+    <string name="title">Titulo</string>
+    <string name="develop">Desarrollado por FContardo</string>
+    <string name="loading">Cargando...</string>
+    <string name="faildata">Fallo en carga de base de datos.</string>
+    <string name="failconnection">Fallo en la conexión.</string>
+
+</resources>

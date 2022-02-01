@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PhotoAlbum</string>
+    <string name="gallery">Gallery</string>
+    <string name="title">Title</string>
+    <string name="develop">Developed by FContardo</string>
+    <string name="loading">Loading...</string>
+    <string name="faildata">Fail loading DataBase.</string>
+    <string name="failconnection">Connection Fail.</string>
+</resources>
